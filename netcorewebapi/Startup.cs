@@ -17,6 +17,7 @@ using netcorewebapi.Data.Services;
 
 namespace netcorewebapi
 {
+
     public class Startup
     {
         public string ConnectionString { get; set; }
